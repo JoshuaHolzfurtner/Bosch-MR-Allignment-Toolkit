@@ -1,3 +1,3 @@
 # Bosch-MR-Allignment-Toolkit
 Bosch MR Allignment Toolkit
-(Release has been pushed back to the end of September.)
+(To be released September 2024.)
